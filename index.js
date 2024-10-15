@@ -8,7 +8,7 @@ const weatherObject1 = {    // hardcoded intially while designing; use API to ge
     'humidity' : "99"
 }
 
-API_KEY = "3ad65e879210c64bd1d689afce60b899";
+API_KEY = ""; // place API key here
 
 // use GEOCODING API to convert the city name to longitude and latitude
 // asynchronous function (waits for response from API by using the keyword "await")
